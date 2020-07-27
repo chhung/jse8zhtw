@@ -1,0 +1,47 @@
+html {
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+.container {
+    width: 96%;
+    margin: 0 auto;
+}
+
+toc-title {
+    line-height: 24px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.toc-content-h1 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.toc-content-h2 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 5px;
+    text-indent : 2em;
+}
+
+.toc-content-h3 {
+    letter-spacing: 2px;
+    font-size: 16px;
+    line-height: 5px;
+    text-indent : 4em;
+}
+
+.toc-content-block {
+    width: auto;
+    height: auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.toc-content-eng {
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 24px;
+}
